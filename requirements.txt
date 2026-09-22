@@ -1,0 +1,15 @@
+pystray
+pillow
+python-dotenv
+groq
+openwakeword
+faster-whisper
+sounddevice
+numpy
+pyttsx3
+pycaw
+comtypes
+screen-brightness-control
+python-docx
+python-pptx
+pywin32
