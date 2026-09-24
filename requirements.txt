@@ -12,4 +12,7 @@ comtypes
 screen-brightness-control
 python-docx
 python-pptx
+pyautogui
+pillow
+google-generativeai
 pywin32
